@@ -1,6 +1,6 @@
 # LinkedIn Content Workflow Evaluation
 
-A small experimental study comparing three LLM-based workflows for generating LinkedIn posts.
+A small experimental study comparing three LLM-based workflows for generating LinkedIn posts
 
 ## Overview
 
